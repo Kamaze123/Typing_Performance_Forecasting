@@ -1,6 +1,6 @@
 # Typing Performance Forecasting
 
-Predicting Geetha's typing metrics for day 999 using 999 days of MonkeyType history. Built for the AI Club Inductions 2026 at NIT Calicut.
+Predicting typing metrics for day 999 using 999 days of MonkeyType history. 
 
 ## Problem
 
